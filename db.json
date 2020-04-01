@@ -51,25 +51,27 @@
             "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@lifetouch.com"
         }
     ],
-  "cognitoProfileId": "de97cebd-ed50-4ec1-9d4c-967c2340bda2",
-  "mergedBrandAccounts": [
-    {
-      "brandProfileId": "9a4020f3-0c7c-2222-a378-9270a0f3170a",
-      "brandEmailAddress": "new_email@email.com",
-      "originalBrandEmailAddress": "original_email@email.com",
-      "brand": "MLT"
-    },
-    {
-      "brandProfileId": "9a4020f3-0c7c-6666-a378-9270a0f3170a",
-      "brandEmailAddress": "test1@email.com",
-      "originalBrandEmailAddress": "test1_original@email.com",
-      "brand": "MLT"
-    },
-    {
-      "brandProfileId": "9a4020f3-0c7c-5555-a378-9270a0f3170a",
-      "brandEmailAddress": "test2@email.com",
-      "originalBrandEmailAddress": "test2_original@email.com",
-      "brand": "Smile"
+    "merged": {
+          "cognitoProfileId": "de97cebd-ed50-4ec1-9d4c-967c2340bda2",
+          "mergedBrandAccounts": [
+                {
+                  "brandProfileId": "9a4020f3-0c7c-2222-a378-9270a0f3170a",
+                  "brandEmailAddress": "new_email@email.com",
+                  "originalBrandEmailAddress": "original_email@email.com",
+                  "brand": "MLT"
+                },
+                {
+                  "brandProfileId": "9a4020f3-0c7c-6666-a378-9270a0f3170a",
+                  "brandEmailAddress": "test1@email.com",
+                  "originalBrandEmailAddress": "test1_original@email.com",
+                  "brand": "MLT"
+                },
+                {
+                  "brandProfileId": "9a4020f3-0c7c-5555-a378-9270a0f3170a",
+                  "brandEmailAddress": "test2@email.com",
+                  "originalBrandEmailAddress": "test2_original@email.com",
+                  "brand": "Smile"
+                }
+          ]
     }
-  ]
 }
