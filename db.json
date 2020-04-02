@@ -64,13 +64,25 @@
                   "brandProfileId": "9a4020f3-0c7c-6666-a378-9270a0f3170a",
                   "brandEmailAddress": "test1@email.com",
                   "originalBrandEmailAddress": "test1_original@email.com",
-                  "brand": "MLT"
+                  "brand": "Prestige Portraits"
                 },
                 {
                   "brandProfileId": "9a4020f3-0c7c-5555-a378-9270a0f3170a",
                   "brandEmailAddress": "test2@email.com",
                   "originalBrandEmailAddress": "test2_original@email.com",
                   "brand": "Smile"
+                },
+                {
+                  "brandProfileId": "000111",
+                  "brandEmailAddress": "john.doe@email.com",
+                  "originalBrandEmailAddress": "john.doe_original@email.com",
+                  "brand": "Commencements"
+                },
+                {
+                  "brandProfileId": "0000011",
+                  "brandEmailAddress": "jane.doe@email.com",
+                  "originalBrandEmailAddress": "jane.doe_original@email.com",
+                  "brand": "School K-12"
                 }
           ]
     }
